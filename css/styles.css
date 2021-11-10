@@ -13,6 +13,7 @@ p {
   color: #8f8f8f;
 }
 
+
 /* Headings */
 
 .big-heading {
@@ -95,6 +96,10 @@ p {
 
 /* Features Section */
 
+.FeaturesROW{
+  align-items: baseline;
+}
+
 #features {
   position: relative;
 }
@@ -161,6 +166,11 @@ p {
 
 /* CTA Section */
 
+#wtappBTN-text{
+  position: relative;
+    top: -5px;
+    margin: 5px;
+}
 
 /* Footer Section */
 
